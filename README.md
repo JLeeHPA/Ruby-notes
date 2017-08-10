@@ -7,3 +7,7 @@ Gems required are:
 - iruby
 - ffi-rzmq
 - cztop
+
+The notebooks should be read in the following order:
+01. Introduction to Ruby data types
+02. Introduction to Ruby programming
